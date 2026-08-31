@@ -1,0 +1,1 @@
+# SM-A137F-fully-ARM64
